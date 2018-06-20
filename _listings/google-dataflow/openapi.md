@@ -4,7 +4,7 @@ x-collection-name: Google Dataflow
 x-complete: 1
 info:
   title: Google Dataflow
-  description: manages-google-cloud-dataflow-projects-on-google-cloud-platform
+  description: manages-google-cloud-dataflow-projects-on-google-cloud-platform-
   contact:
     name: Google
     url: https://google.com

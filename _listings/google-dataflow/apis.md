@@ -7,10 +7,10 @@ description: Dataflow is a unified programming model and a managed service for d
   resource management and performance optimization.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Dataflow
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-dataflow/master/_listings/google-dataflow/apis.md
 specificationVersion: "0.14"
 apis:
