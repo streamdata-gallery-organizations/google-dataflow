@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Dataflow",
+	"description": "This is a repository of google dataflow APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-dataflow.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-dataflow.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Dataflow",
+			"x-api-slug": "google-dataflow",
+			"description": "Dataflow is a unified programming model and a managed service for developing and executing a wide range of data processing patterns including ETL, batch computation, and continuous computation. Cloud Dataflow frees you from operational tasks like resource management and performance optimization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg",
+			"humanURL": "https://cloud.google.com/dataflow/",
+			"baseURL": "://dataflow.googleapis.com//",
+			"tags": "Google Dataflow",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-dataflow/master/_listings/google-dataflow/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Dataflow",
+	"include": [
+		{
+			"name": "Google Dataflow",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-dataflow/master/_listings/google-dataflow/apis.yaml"
+		}
+	]
+}
